@@ -18,7 +18,7 @@
   "conversations": {
     "Watson": {
       "name": "Watson",
-      "url": "https://eva-frontend-responsible-genet.eu-gb.mybluemix.net",
+      "url": "https://gateway-lon.watsonplatform.net/assistant/api",
       "fulfillmentApiVersion": 2,
       "in_dialog_intents": [
         {
